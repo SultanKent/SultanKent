@@ -34,7 +34,7 @@
 ---
 <br/>  
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center; ">
-  <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/ADDIC42/badges/large" width="600" />
+  <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/SultanKent/badges/large" width="600" />
 </div>
 <br/>  
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
