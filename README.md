@@ -49,6 +49,6 @@
 ## Связаться со мной:
 <div align="center">
 
-[![telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](@sleepcc)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad.saraliev)
+[![telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/sleepcc)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kiritoff75/)
 </div>
