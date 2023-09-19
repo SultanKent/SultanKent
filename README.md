@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [With different team](Work in company)
 
-- 👨‍💻 All of my projects are available at [https://sultankent.github.io/portfolio/](https://sultankent.github.io/portfolio/)
+- 👨‍💻 Part of my projects are available at [https://sultankent.github.io/portfolio/](https://sultankent.github.io/portfolio/)
 
 - 📫 How to reach me **ffkirito6@gmail.com**
 
