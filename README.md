@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sultan</h1>
+<h1 align="center">Hi 👋, I'm Akero</h1>
 <h3 align="center">A passionate frontend developer from Kz, have experience with work in team and can work with backend + frontend</h3>
 
 - 🔭 I’m currently working on [project works](sometimes freelance)
 
 - 🌱 I’m currently learning **backend development**
-
-- 👯 I’m looking to collaborate on [With different team](Work in company)
 
 - 👨‍💻 Part of my projects are available at [https://sultankent.github.io/portfolio/](https://sultankent.github.io/portfolio/)
 
