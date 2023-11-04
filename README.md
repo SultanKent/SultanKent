@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kz, have experience with work in team and can work with backend + frontend</h3>
 
 - 🔭 I’m currently working on [project and pet works](sometimes freelance)
-- 
+
 - 👨‍💻 Part of my projects are available at [https://sultankent.github.io/portfolio/](https://sultankent.github.io/portfolio/)
 
 - 📫 How to reach me **ffkirito6@gmail.com**
