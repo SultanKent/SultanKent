@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akero</h1>
-<h3 align="center">A passionate frontend developer from Kz, have experience with work in team and can work with backend + frontend</h3>
+<h1 align="center">Hi 👋, Я Akero</h1>
+<h3 align="center">Самый обычный фронтенд-разработчик из Казахстана.</h3>
 
-- 🔭 I’m currently working on [project and pet works](sometimes freelance)
+- 🔭 Сейчас я работаю над личными стартапами
 
-- 👨‍💻 Part of my projects are available at [https://sultankent.github.io/portfolio/](https://sultankent.github.io/portfolio/)
+- 👨‍💻 мои старые проекты [https://sultankent.github.io/portfolio/](https://sultankent.github.io/portfolio/)
 
-- 📫 How to reach me **ffkirito6@gmail.com**
+- 📫 Как связаться со мной **ffkirito6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
