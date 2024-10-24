@@ -6,6 +6,7 @@
 - 👨‍💻 мои старые проекты [https://sultankent.github.io/portfolio/](https://sultankent.github.io/portfolio/)
 
 - 📫 Как связаться со мной **ffkirito6@gmail.com**
+- https://t.me/TechHtml
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
