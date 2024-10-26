@@ -9,7 +9,7 @@
   
 - ⌨ люблю решать задачи на [https://www.codewars.com/users/SultanKent]
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> JavaScript OneLove</h3>
 <p align="left">
 </p>
 
